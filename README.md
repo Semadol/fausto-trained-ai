@@ -5,7 +5,7 @@ Para el proyecto de ingenieria informatica de la UCLA, 5to semestre, de la mater
 ### Integrantes:
 + Andrés Mora. 30128301
 + Barbara Rincón. 29762581
-+ Carani Rodriguez.
++ Carani Rodriguez. 27025088
 
 ---
 
