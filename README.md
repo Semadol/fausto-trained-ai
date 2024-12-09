@@ -1,11 +1,6 @@
 # fausto-trained-ai
 
 Para el proyecto de ingenieria informatica de la UCLA, 5to semestre, de la materia de Programación III
----
-### Integrantes:
-+ Andrés Mora. 30128301
-+ Barbara Rincón. 29762581
-+ Carani Rodriguez. 27025088
 
 ---
 
